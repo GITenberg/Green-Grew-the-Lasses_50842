@@ -1,10 +1,16 @@
 _repo: Green-Grew-the-Lasses_50842
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50842-h/images/cover.jpg
 creator:
   author:
     agent_name: Wainwright, Ruth Laura
     gutenberg_agent_id: '46111'
     url: http://www.gutenberg.org/2009/agents/46111
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50842#Green-Grew-the-Lasses
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-04'
 gutenberg_type: Text
